@@ -2,13 +2,11 @@
 
 An interactive dashboard built in Power BI to analyze the financial and operational performance of a real estate project. Ideal for students and aspiring data analysts exploring real-world applications of business intelligence in the real estate domain.
 
----
 
 ## 📘 Introduction
 
 This dashboard provides a comprehensive overview of real estate project performance, including revenue, expenses, profits, and property sales. It simplifies complex datasets into intuitive visualizations, enabling users to derive actionable insights and make informed decisions.
 
----
 
 ## 🧭 Dashboard Overview
 
@@ -72,6 +70,7 @@ This Power BI dashboard is a robust tool for analyzing real estate business perf
 ## 📸 Dashboard Preview
 
 Snapshot of the DashBoard
-<img width="1268" height="747" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/4154bba8-27b1-4624-a48e-eb521b36089b" />
+<img width="1340" height="746" alt="Snapshot of the dashboard" src="https://github.com/user-attachments/assets/01a38b17-57bc-4af1-88fa-6a20dd78d57b" />
+
 
 
